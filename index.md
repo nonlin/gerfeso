@@ -2,7 +2,7 @@
 
 Game Developer,
 Simulations Engineer,
-and General Programmer
+and General Programmer.
 
 ### Games
 
